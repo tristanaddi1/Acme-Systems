@@ -16,4 +16,9 @@ public class HelloWorld {
 		System.out.println(Msg);
 	
 	}
+	public static void heyFor() {
+		String Msg = "Hey For!";
+		System.out.println(Msg);
+	
+	}
 }
